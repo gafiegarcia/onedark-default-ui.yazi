@@ -1,23 +1,6 @@
-<div align="center">
-  <img src="https://github.com/sxyazi/yazi/blob/main/assets/logo.png?raw=true" alt="Yazi logo" width="20%">
-</div>
+# One Half Dark Syntax with yazi default theme
 
-<h3 align="center">
-	Example Flavor for <a href="https://github.com/sxyazi/yazi">Yazi</a>
-</h3>
-
-## Cooking up a new flavor
-
-> [!NOTE]
-> Please remove this section from your README before publishing.
-
-1. [x] Use this template and rename it to `your-flavor-name.yazi`.
-2. [ ] Copy the **parts you need to customize** from the default [theme-dark.toml][theme-dark] or [theme-light.toml][theme-light] as `./flavor.toml`, and change them to meet your preferences.
-3. [ ] Find a `.tmTheme` file on GitHub that matches the color of your flavor, copy it and its license file as `./tmtheme.xml`, and `LICENSE-tmtheme`.
-4. [ ] Modify the content and preview image in the README to fit your flavor.
-
-[theme-dark]: https://github.com/sxyazi/yazi/blob/main/yazi-config/preset/theme-dark.toml
-[theme-light]: https://github.com/sxyazi/yazi/blob/main/yazi-config/preset/theme-light.toml
+Yazi flavor with default UI theme and One Half Dark Syntax-highlighting from [sonph/onehalf](https://github.com/sonph/onehalf/)
 
 ## 👀 Preview
 
@@ -28,7 +11,8 @@
 <!-- Please replace "username/example" with your repository name. -->
 
 ```sh
-ya pkg add username/example
+ya pkg add gafiegarcia/onehalfdark-default-ui
+
 ```
 
 ## ⚙️ Usage
