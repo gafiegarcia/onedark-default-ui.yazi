@@ -1,6 +1,6 @@
-# One Half Dark Syntax with yazi default theme
+# One Dark Syntax with yazi default theme
 
-Yazi flavor with default UI theme and One Half Dark Syntax-highlighting from [sonph/onehalf](https://github.com/sonph/onehalf/)
+Yazi flavor with default UI theme and One Dark Syntax-highlighting from [andresmichel/one-dark-theme](https://github.com/andresmichel/one-dark-theme/)
 
 ## 👀 Preview
 
