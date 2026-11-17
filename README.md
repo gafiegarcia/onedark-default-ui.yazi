@@ -6,28 +6,21 @@ Yazi flavor with default UI theme and One Dark Syntax-highlighting from [andresm
 
 <img src="preview.png" width="600" />
 
+<img src="preview2.png" width="600" />
+
 ## 🎨 Installation
 
-<!-- Please replace "username/example" with your repository name. -->
-
 ```sh
-ya pkg add gafiegarcia/onehalfdark-default-ui
-
+ya pkg add gafiegarcia/onedark-default-ui
 ```
 
 ## ⚙️ Usage
-
-<!--
-Please replace "example" with your flavor name.
-
-If your flavor uses a light color scheme, use "light" instead of "dark" wherever it appears below.
--->
 
 To set it as your dark flavor, change the content of your `theme.toml` to:
 
 ```toml
 [flavor]
-dark = "example"
+dark = "onedark-default-ui"
 ```
 
 Make sure your `theme.toml` doesn't contain anything other than `[flavor]`, unless you want to override certain styles of this flavor.
